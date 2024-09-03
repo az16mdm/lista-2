@@ -1,0 +1,14 @@
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\build\atv 2.exe
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\build\atv 2.deps.json
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\build\atv 2.runtimeconfig.json
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\build\atv 2.dll
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\build\atv 2.pdb
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\obj\Debug\net8.0\atv 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\obj\Debug\net8.0\atv 2.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\obj\Debug\net8.0\atv 2.AssemblyInfo.cs
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\obj\Debug\net8.0\atv 2.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\obj\Debug\net8.0\atv 2.dll
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\obj\Debug\net8.0\refint\atv 2.dll
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\obj\Debug\net8.0\atv 2.pdb
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\obj\Debug\net8.0\atv 2.genruntimeconfig.cache
+C:\Users\j02\Documents\Lucas Azevedo 2°B Jd\Lógica de programação\C#\Lista de exercicio 2\atv2\obj\Debug\net8.0\ref\atv 2.dll
